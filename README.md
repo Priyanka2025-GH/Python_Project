@@ -1,6 +1,6 @@
 # Python Mini Projects
 
-This repository contains four beginner-friendly Python projects developed to practice core Python programming concepts such as functions, loops, dictionaries, conditional statements, and user input handling.
+This repository contains beginner-friendly Python projects developed to practice core Python programming concepts such as functions, loops, dictionaries, conditional statements, and user input handling.
 
 ## Projects Included
 
